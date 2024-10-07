@@ -1,0 +1,53 @@
+.container{
+    height: 100%;
+    width: 100%;
+}
+
+.pala{
+    background-color: crimson;
+    border-radius: 5px 5px 0px 0px;
+    padding: 5px;
+    width: 100%;
+}
+.pala h1{
+    color: snow;   
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.tengahan{
+    background-color:rosybrown ;
+    padding-bottom: 500px;
+    width: 100%;
+    padding-right: 10px;
+}
+
+#alas {
+    background-color: azure;
+    padding: 2px;
+    width: 75%;
+    margin-left: 10%;
+    padding-left: 5%;
+}
+#alas h2 {
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 0;
+}
+
+#alas p {
+    text-align: left;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.kaki{
+    background-color: brown;
+    width: 100%;
+    padding: 5px;
+}
+
+.kaki h3 {
+    color: ghostwhite;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
